@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Creational Pattern/Creational Pattern.iml" filepath="$PROJECT_DIR$/Creational Pattern/Creational Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational - Builder/Creational - Builder.iml" filepath="$PROJECT_DIR$/Creational - Builder/Creational - Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational - Singleton/Creational - Singleton.iml" filepath="$PROJECT_DIR$/Creational - Singleton/Creational - Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Design-Pattern.iml" filepath="$PROJECT_DIR$/.idea/Java-Design-Pattern.iml" />
     </modules>
   </component>
