@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Creational - Builder/Creational - Builder.iml" filepath="$PROJECT_DIR$/Creational - Builder/Creational - Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational - Factory/Creational - Factory.iml" filepath="$PROJECT_DIR$/Creational - Factory/Creational - Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational - Prototype/Creational - Prototype.iml" filepath="$PROJECT_DIR$/Creational - Prototype/Creational - Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational - Singleton/Creational - Singleton.iml" filepath="$PROJECT_DIR$/Creational - Singleton/Creational - Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Design-Pattern.iml" filepath="$PROJECT_DIR$/.idea/Java-Design-Pattern.iml" />
